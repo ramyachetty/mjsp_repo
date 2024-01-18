@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 good morning
 Festival holidays
 
+=======
+>>>>>>> parent of df32317 ( file5)
